@@ -20,7 +20,7 @@
 ![hektree_3](https://github.com/AIntelligent/HEKTree/blob/eac0efd8417303749c24bee3b155f2cf510e390d/screenshots/hektree_3.PNG)
 
 # x86
-![](https://github.com/AIntelligent/HEKTree/blob/43803fe55084ac68b8968b0c7b4683fa4d154b1d/Binaries/x86/hektree.exe)
+https://github.com/AIntelligent/HEKTree/blob/43803fe55084ac68b8968b0c7b4683fa4d154b1d/Binaries/x86/hektree.exe
 
 SHA-256: DD5D92C17E59923F1CBD078DDD94BCE840169BEC2D6959B93A85D25EBF2AA48C
 MD5: F914B19D49E56D5FB81C8524073D75F6
