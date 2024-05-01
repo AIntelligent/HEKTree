@@ -19,15 +19,15 @@
 ![hektree_2](https://github.com/AIntelligent/HEKTree/blob/eac0efd8417303749c24bee3b155f2cf510e390d/screenshots/hektree_2.PNG)
 ![hektree_3](https://github.com/AIntelligent/HEKTree/blob/eac0efd8417303749c24bee3b155f2cf510e390d/screenshots/hektree_3.PNG)
 
-# hektree.exe x86
+# x86
 ![](https://github.com/AIntelligent/HEKTree/blob/43803fe55084ac68b8968b0c7b4683fa4d154b1d/Binaries/x86/hektree.exe)
 
 SHA-256: DD5D92C17E59923F1CBD078DDD94BCE840169BEC2D6959B93A85D25EBF2AA48C
 MD5: F914B19D49E56D5FB81C8524073D75F6
 
-# hektree.exe x64
+# x64
 
-![[hektree.exe]](https://github.com/AIntelligent/HEKTree/blob/04432e8f639b073d3b36d403468c2180797d9017/Binaries/x64/hektree.exe)
+https://github.com/AIntelligent/HEKTree/blob/04432e8f639b073d3b36d403468c2180797d9017/Binaries/x64/hektree.exe
 
 SHA-256: 780F7659BD97D73F5C428D6B6EFBC12DC26563BF53CCB99650606D06BEAA431C
 MD5: D593619F51E003D98771ECC14CFD36D9
