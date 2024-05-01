@@ -67,7 +67,7 @@ char *GetParentPaddings( dir_ptr inParent )
 	dir_ptr \
 		l_ptrParent = inParent;
 	char \
-		*l_strResult = "", \
+		*l_strResult = NULL, \
 		*l_strPadding;
 		
 	while (l_ptrParent != NULL)
